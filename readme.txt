@@ -1,6 +1,7 @@
 ﻿=== Juiz Outdated Post Message ===
 Contributors: CreativeJuiz
-Tags: outdate, outdated, post, message, days
+Donate link: 
+Tags: outdate, outdated, post, message, days, information
 Requires at least: 4.0.0
 Tested up to: 4.0.0
 Stable tag: 1.0.0
@@ -22,6 +23,9 @@ You visitor knows when a post is a little bit outdated and reads the content kee
 * Lots of hooks (for developers)
 
 **A full documentation is coming**
+**Is you find a bug, please, [tell me](https://wordpress.org/support/plugin/juiz-outdated-post-message)!**
+
+You want to translate this plugin and have your name in this page? Find translation files [here](http://plugins.svn.wordpress.org/juiz-outdated-post-message/trunk/languages/).
 
 
 ---------------------- Français --------------------
@@ -40,6 +44,9 @@ Votre visiteur sait quand un post est un peu dépassé et lit le contenu en gard
 * Beaucoup de hooks (pour les développeurs)
 
 **Une documentation complète arrive**
+**Si vous trouver un bug, merci de [m'en informer (en anglais)](https://wordpress.org/support/plugin/juiz-outdated-post-message)!**
+
+Vous souhaitez traduire ce plugin et afficher votre nom sur cette page ? Retrouvez les fichiers de traduction [ici](http://plugins.svn.wordpress.org/juiz-outdated-post-message/trunk/languages/).
 
 
 == Installation ==

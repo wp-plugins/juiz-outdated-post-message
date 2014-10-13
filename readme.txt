@@ -13,7 +13,7 @@ This plugin adds a message before or after your post content when this post is o
 This plugin adds a message before or after (or both) your post content when this post is outdated.
 You visitor knows when a post is a little bit outdated and reads the content keeping its age in mind.
 
-** Features **
+**Features**
 
 * Choose the place where the message is displayed (before or after the content, or both)
 * Choose which type of posts that are concerned
@@ -28,13 +28,13 @@ You visitor knows when a post is a little bit outdated and reads the content kee
 You want to translate this plugin and have your name in this page? Find translation files [here](http://plugins.svn.wordpress.org/juiz-outdated-post-message/trunk/languages/).
 
 
----------------------- Français --------------------
-------------------
+------------------------------ Français ----------------------------
 
 
 Ce plugin ajoute un message avant ou après (ou les deux) votre contenu quand celui-ci est périmé.
 Votre visiteur sait quand un post est un peu dépassé et lit le contenu en gardant son âge en tête.
 
+**Fonctionnalités**
 
 * Choisissez l'endroit où le message est affiché (avant ou après le contenu, ou les deux)
 * Choisissez les types de contenus qui sont concernés

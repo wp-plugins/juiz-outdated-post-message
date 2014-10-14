@@ -75,8 +75,8 @@ if (!function_exists('get_odpm_outdated_message')) {
 		global $post;
 
 		$post_meta 	= get_post_meta($post->ID, '_jodpm_metabox_options', true);
-		$show_me 	=  $post_meta['hide'] === 'on' ? false : true;
-		$custom_delay = intval($post_meta['custom_delay']);
+		$show_me 	=  isset($post_meta['hide']) && $post_meta['hide'] === 'on' ? false : true;
+		$custom_delay = isset($post_meta['custom_delay']) ? intval($post_meta['custom_delay']) : 0;
 
 		// if hide option is not checked for this post
 		if ( $show_me ) {

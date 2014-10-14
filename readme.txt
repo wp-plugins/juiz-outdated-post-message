@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P39NJ
 Tags: outdate, outdated, post, message, days, information
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 This plugin adds a message before or after your post content when this post is outdated
 
@@ -79,6 +79,9 @@ You can use one of both method :
 3. The message displayed before the content
 
 == Changelog ==
+
+= 1.0.1 =
+* Notice in PHP 5.4 fixed
 
 = 1.0.0 =
 * The first stable version, tell me if you find something wrong.

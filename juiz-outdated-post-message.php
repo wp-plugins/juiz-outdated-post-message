@@ -3,7 +3,7 @@
 Plugin Name: Juiz OutDated Post Message
 Description: Add a message when your post is out to date (according to your own criteria)
 Author: Geoffrey Crofte
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://geoffrey.crofte.fr
 License: GPLv2 or later 
 */
@@ -30,7 +30,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
 define( 'JUIZ_ODPM_PLUGIN_NAME',	'Juiz Outdated Post Message' );
-define( 'JUIZ_ODPM_VERSION',		'1.0.0' );
+define( 'JUIZ_ODPM_VERSION',		'1.0.1' );
 define( 'JUIZ_ODPM_FILE',		     __FILE__ );
 define( 'JUIZ_ODPM_DIRNAME',		basename( dirname( __FILE__ ) ) );
 define( 'JUIZ_ODPM_PLUGIN_URL',		trailingslashit( WP_PLUGIN_URL ) . JUIZ_ODPM_DIRNAME );

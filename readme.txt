@@ -3,7 +3,7 @@ Contributors: CreativeJuiz
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=P39NJPCWVXGDY&lc=FR&item_name=Juiz%20Outdated%20Post%20Message%20%2d%20WP%20Plugin&item_number=%23wp%2djodpm&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: outdate, outdated, post, message, days, information
 Requires at least: 4.0
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: 1.0.1
 
 This plugin adds a message before or after your post content when this post is outdated
